@@ -4,7 +4,7 @@ import React from 'react'
 const HeaderSocials = () => {
   return (
   <div className='home__socials'>
-        <a href='https://www.instagram.com/chetannn.k/' className='home__social-link' target='_blank'>
+        <a href='' className='home__social-link' target='_blank'>
         <i class="fa-brands fa-instagram"></i>
         </a>
 
@@ -16,11 +16,11 @@ const HeaderSocials = () => {
         <i class="fa-brands fa-dribbble"></i>
         </a>
 
-        <a href='https://github.com/0x1Luffy' className='home__social-link' target='_blank'>
+        <a href='https://github.com/kalilinux429' className='home__social-link' target='_blank'>
         <i class="fa-brands fa-github"></i>
         </a>
 
-        <a href='https://www.linkedin.com/in/chetan-kesare-057042195/' className='home__social-link' target='_blank'>
+        <a href='https://www.linkedin.com/in/suchit-kapale' className='home__social-link' target='_blank'>
         <i class="fa-brands fa-linkedin"></i>
         </a>
   </div>

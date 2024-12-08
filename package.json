@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Chetan Kesare"
+    "name": "Suchit Kapale"
   },
-  "github": {
-    "link": "https://github.com/0x1Luffy"
+  "vercel": {
+    "link": ""
   },
   "scripts": {
     "dev": "next dev",

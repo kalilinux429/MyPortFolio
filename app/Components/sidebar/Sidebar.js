@@ -6,11 +6,12 @@ import "./Sidebar.css";
 const Sidebar = () => {
 
   const [toggle, showMenu] = useState(false);
+ 
   return (
    <>
     <aside className={toggle ? "aside show-menu" : "aside"}>
     <a href='#home' className='nav__logo'>
-    <img src='https://i.ibb.co/w7NMgzw/User-Image.jpg' alt='sideLogo' />
+     {/* <img src='https://i.ibb.co/w7NMgzw/User-Image.jpg' alt='sideLogo' /> */}
     </a>
 
     <nav className='nav'>
@@ -54,8 +55,8 @@ const Sidebar = () => {
     </nav>
 
     <div className='nav__footer'>
-      <span className='copyright'>&copy; 2023 - 2024.</span>
-      <span className='copyright'>&copy; Chetan-Kesare.</span>
+      <span className='copyright'></span>
+      <span className='copyright'></span>
     </div>
 
    </aside>
