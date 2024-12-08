@@ -5,7 +5,8 @@
 
 Welcome to my portfolio website repository! This project was built using Next.js, CSS, and React hooks like `useState` and `useEffect`. It's a fully responsive website showcasing my skills, projects, and more.
 
-🚀 [Live Demo](https://chetan9-portfolio.vercel.app/)
+🚀 [Live Demo]("https://suchitkapale.vercel.app/"
+)
 
 ## Features
 
