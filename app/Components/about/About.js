@@ -18,7 +18,7 @@ const About = () => {
           <div className="about__info">
             <p className="about__description">
               <b><i>
-              I am a skilled "React Frontend Developer" with
+              I am a skilled React Frontend Developer with
               3.7 years of experience building responsive and user-friendly
               web applications. Proficient in React.js,Next jS, Node js JavaScript
               (ES6+), HTML5, and CSS3, I specialize in creating
